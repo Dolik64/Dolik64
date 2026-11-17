@@ -18,11 +18,12 @@ Veřejné prezentace níže obsahují screenshoty, průvodce nebo demonstrační
 | **[MacDiskLens](https://github.com/Dolik64/macdisklens-showcase/blob/main/README.cs.md)** | Analýza disku v macOS se stromem, tabulkou, treemapou a viditelnými problémy skenu. | [Demonstrační report](https://github.com/Dolik64/macdisklens-showcase/blob/main/demo/sample-scan.csv) |
 | **[OCR / OMR čtečka](https://github.com/Dolik64/ocr-showcase/blob/main/README.cs.md)** | Prototyp v Pythonu pro rozpoznání označených políček A–D v odpovědních arších. | [Vstup a výsledek](https://github.com/Dolik64/ocr-showcase/blob/main/docs/demo.md) |
 | **[BlockWorld A*](https://github.com/Dolik64/blockworld-astar-showcase/blob/main/README.cs.md)** | Studijní projekt: heuristické hledání přesunů kostek s ověřenou čtyřtahovou ukázkou. | [Obrazový průchod](https://github.com/Dolik64/blockworld-astar-showcase/blob/main/docs/demo.md) |
+| **[Kombinatorická optimalizace](https://github.com/Dolik64/combinatorial-optimization-showcase/blob/main/README.cs.md)** | Celočíselné programování v Pythonu a Gurobi: cyklické plánování směn, ověřená optima a vliv limitu podstavu. | [Rozvrhy a výsledky](https://github.com/Dolik64/combinatorial-optimization-showcase/blob/main/docs/demo.md) |
 | **[Doležal Photo](https://github.com/Dolik64/dolezal-photo-showcase/blob/main/README.cs.md)** | Fotografické portfolio s tematickými galeriemi a cestou ke kontaktu. | [Živý web](https://dolezal-photo.github.io/) |
 | **[Doležal Drone](https://github.com/Dolik64/dolezal-drone-showcase/blob/main/README.cs.md)** | Web letecké fotografie s prohlížečem snímků a stránkami služeb. | [Živý web](https://dolezal-drone.github.io/) |
 
 ## Technologie projektů
 
-Kotlin / Jetpack Compose · Java / JavaFX / Swing · C# / Unity 6 / URP 2D · JavaScript · Python / OpenCV / NumPy · Hugo · MapLibre · Git / GitHub Pages · Slurm / vLLM / CUDA
+Kotlin / Jetpack Compose · Java / JavaFX / Swing · C# / Unity 6 / URP 2D · JavaScript · Python / OpenCV / NumPy / Gurobi · Hugo · MapLibre · Git / GitHub Pages · Slurm / vLLM / CUDA
 
 Podrobnosti najdeš v jednotlivých prezentacích. Pro spolupráci na focení použij [kontaktní stránku](https://dolezal-photo.github.io/kontakt/).

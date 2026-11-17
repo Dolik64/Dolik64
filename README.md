@@ -18,6 +18,7 @@ Each project below opens a public presentation with screenshots, a walkthrough o
 | **[MacDiskLens](https://github.com/Dolik64/macdisklens-showcase)** | Read-only macOS disk usage analysis with a tree, table, treemap and explicit scan issues. | [Sample report](https://github.com/Dolik64/macdisklens-showcase/blob/main/docs/demo.md) |
 | **[OCR / OMR Reader](https://github.com/Dolik64/ocr-showcase)** | Python computer vision prototype for detecting marked A–D answers in fixed-layout response sheets. | [Input and result](https://github.com/Dolik64/ocr-showcase/blob/main/docs/demo.md) |
 | **[BlockWorld A*](https://github.com/Dolik64/blockworld-astar-showcase)** | AI coursework: heuristic search for a sequence of legal block moves, with a verified four-move example. | [Visual walkthrough](https://github.com/Dolik64/blockworld-astar-showcase/blob/main/docs/demo.md) |
+| **[Combinatorial Optimization](https://github.com/Dolik64/combinatorial-optimization-showcase)** | Python/Gurobi integer programming for cyclic weekly shift scheduling, with verified optima and shortage-limit analysis. | [Schedules & results](https://github.com/Dolik64/combinatorial-optimization-showcase/blob/main/docs/demo.md) |
 | **[Doležal Photo](https://github.com/Dolik64/dolezal-photo-showcase)** | Photography portfolio connecting thematic galleries, visual storytelling and a contact journey. | [Live website](https://dolezal-photo.github.io/) |
 | **[Doležal Drone](https://github.com/Dolik64/dolezal-drone-showcase)** | Aerial photography website with an image viewer, service pages and responsive image delivery. | [Live website](https://dolezal-drone.github.io/) |
 
@@ -29,6 +30,6 @@ Each project below opens a public presentation with screenshots, a walkthrough o
 
 ## Technologies used in these projects
 
-Kotlin / Jetpack Compose · Java / JavaFX / Swing · C# / Unity 6 / URP 2D · JavaScript · Python / OpenCV / NumPy · Hugo · MapLibre · Git / GitHub Pages · Slurm / vLLM / CUDA
+Kotlin / Jetpack Compose · Java / JavaFX / Swing · C# / Unity 6 / URP 2D · JavaScript · Python / OpenCV / NumPy / Gurobi · Hugo · MapLibre · Git / GitHub Pages · Slurm / vLLM / CUDA
 
 For project details, start with the showcases above. For photography collaboration, use the [contact page](https://dolezal-photo.github.io/kontakt/).
