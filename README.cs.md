@@ -13,6 +13,7 @@ Veřejné prezentace níže obsahují screenshoty, průvodce nebo demonstrační
 | **[České traily](https://github.com/Dolik64/ceske-traily-showcase/blob/main/README.cs.md)** | Interaktivní mapa MTB trailů s hledáním, offline režimem, nástupy a GPX. | [Živá mapa](https://ceske-traily.github.io/) |
 | **[AI cluster / LLM inference](https://github.com/Dolik64/ai-cluster-showcase)** | Nasazení Hermes-4-70B na univerzitním GPU clusteru: Slurm, vLLM, více GPU a SSH přístup. | [Architektura a výsledky](https://github.com/Dolik64/ai-cluster-showcase/blob/main/docs/demo.md) |
 | **[BookCreator](https://github.com/Dolik64/bookcreator-showcase/blob/main/README.cs.md)** | Androidová multimediální alba s knihovnou, editorem, přehrávačem a sdílením. Bakalářský projekt na ČVUT. | [Obrazový průchod](https://github.com/Dolik64/bookcreator-showcase/blob/main/docs/demo.md) |
+| **[The Last Human](https://github.com/Dolik64/the-last-human-showcase/blob/main/README.cs.md)** | Týmová akční 2D plošinovka v Unity. Můj podíl: AI nepřátel, souboje, boss, osvětlení a integrace ovládání. | [Galerie hry a implementace](https://github.com/Dolik64/the-last-human-showcase/blob/main/docs/demo.md) |
 | **[Generátor nabídek](https://github.com/Dolik64/price-offer-builder-showcase/blob/main/README.cs.md)** | Desktopový postup od komponent a excelového ceníku po nabídku v PDF. | [Modelová nabídka](https://github.com/Dolik64/price-offer-builder-showcase/blob/main/demo/sample-offer.md) |
 | **[MacDiskLens](https://github.com/Dolik64/macdisklens-showcase/blob/main/README.cs.md)** | Analýza disku v macOS se stromem, tabulkou, treemapou a viditelnými problémy skenu. | [Demonstrační report](https://github.com/Dolik64/macdisklens-showcase/blob/main/demo/sample-scan.csv) |
 | **[OCR / OMR čtečka](https://github.com/Dolik64/ocr-showcase/blob/main/README.cs.md)** | Prototyp v Pythonu pro rozpoznání označených políček A–D v odpovědních arších. | [Vstup a výsledek](https://github.com/Dolik64/ocr-showcase/blob/main/docs/demo.md) |
@@ -22,6 +23,6 @@ Veřejné prezentace níže obsahují screenshoty, průvodce nebo demonstrační
 
 ## Technologie projektů
 
-Kotlin / Jetpack Compose · Java / JavaFX / Swing · JavaScript · Python / OpenCV / NumPy · Hugo · MapLibre · Git / GitHub Pages · Slurm / vLLM / CUDA
+Kotlin / Jetpack Compose · Java / JavaFX / Swing · C# / Unity 6 / URP 2D · JavaScript · Python / OpenCV / NumPy · Hugo · MapLibre · Git / GitHub Pages · Slurm / vLLM / CUDA
 
 Podrobnosti najdeš v jednotlivých prezentacích. Pro spolupráci na focení použij [kontaktní stránku](https://dolezal-photo.github.io/kontakt/).
