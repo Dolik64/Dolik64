@@ -25,7 +25,7 @@ Each project below opens a public presentation with screenshots, a walkthrough o
 
 [![České traily: live map and catalogue](https://raw.githubusercontent.com/Dolik64/ceske-traily-showcase/main/assets/overview.png)](https://github.com/Dolik64/ceske-traily-showcase)
 
-[![The Last Human: robot in the tutorial level](https://raw.githubusercontent.com/Dolik64/the-last-human-showcase/main/assets/tutorial.png)](https://github.com/Dolik64/the-last-human-showcase)
+[![The Last Human: robot carrying a plant beneath a flying enemy](https://raw.githubusercontent.com/Dolik64/the-last-human-showcase/main/assets/gameplay.png)](https://github.com/Dolik64/the-last-human-showcase)
 
 ## Technologies used in these projects
 
