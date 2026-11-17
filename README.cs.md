@@ -4,8 +4,6 @@ Vytvářím aplikace pro Android, desktop a web. Zajímají mě vizuální rozhr
 
 Studuji **Otevřenou informatiku na FEL ČVUT v Praze**. Věnuji se také fotografii a videu.
 
-[English](README.md) · [Fotografické portfolio](https://dolezal-photo.github.io/) · [Letecká fotografie](https://dolezal-drone.github.io/)
-
 ## Vybrané projekty
 
 Veřejné prezentace níže obsahují screenshoty, průvodce nebo demonstrační data. Zdrojový kód aplikací v těchto prezentačních repozitářích není.

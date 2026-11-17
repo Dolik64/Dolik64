@@ -4,8 +4,6 @@ I build Android, desktop and web applications, with an interest in visual interf
 
 Student of Open Informatics at the **Faculty of Electrical Engineering, Czech Technical University in Prague**. Based in Prague; also working with photography and video.
 
-**[Česká verze](README.cs.md)** · [Photography portfolio](https://dolezal-photo.github.io/) · [Aerial photography](https://dolezal-drone.github.io/)
-
 ## Selected projects
 
 Each project below opens a public presentation with screenshots, a walkthrough or sample data. Application source code is not included in these showcase repositories.
