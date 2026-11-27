@@ -4,6 +4,16 @@ Vytvářím aplikace pro Android, desktop a web. Zajímají mě vizuální rozhr
 
 Studuji **Otevřenou informatiku na FEL ČVUT v Praze**. Věnuji se také fotografii a videu.
 
+## Příspěvky do open source
+
+### Monitorování hardwaru v Linuxu: yogafan
+
+Diagnostikoval a opravil jsem chybu, kvůli které oba ventilátory notebooku **Lenovo Legion Slim 5 14APH8 (82Y5)** hlásily **0 RPM**. Analýzou ACPI DSDT a čtením polí vestavěného řadiče (EC) jsem zjistil, že 8bitové hodnoty `FANS` a `FA2S` vyžadují násobení **×100**. Doplnil jsem konfiguraci a DMI shodu pro konkrétní model, ovladač zkompiloval a otestoval na svém notebooku: oba kanály hlásily věrohodné nenulové otáčky (2100 a 2200 RPM). Přesnost těchto hodnot zatím nebyla nezávisle kalibrována.
+
+**Stav:** Správce přijal příspěvek do připravované série patchů `yogafan` pro `hwmon-next` (Linux 7.5) a potvrdil uvedení mého příspěvku v `Documentation/hwmon/yogafan.rst`. **Začlenění do upstream Linuxu zatím není potvrzené.**
+
+[Diagnostika, patch a výsledky testování](https://github.com/sergiomelas/lenovo-linux-drivers/issues/23) · [Potvrzení správce](https://github.com/sergiomelas/lenovo-linux-drivers/issues/23#issuecomment-7210229504)
+
 ## Vybrané projekty
 
 Veřejné prezentace níže obsahují screenshoty, průvodce nebo demonstrační data. Zdrojový kód aplikací v těchto prezentačních repozitářích není.
