@@ -4,6 +4,16 @@ I build Android, desktop and web applications, with an interest in visual interf
 
 Student of Open Informatics at the **Faculty of Electrical Engineering, Czech Technical University in Prague**. Based in Prague; also working with photography and video.
 
+## Open-source contributions
+
+### Linux hardware monitoring: yogafan
+
+Diagnosed and fixed both fans reporting **0 RPM** on the **Lenovo Legion Slim 5 14APH8 (82Y5)**. By analysing the ACPI DSDT and reading the embedded controller (EC) fields, I identified that the 8-bit `FANS` and `FA2S` values require a **×100** multiplier. I implemented a model-specific configuration and DMI match, then compiled and tested the driver on my laptop: both channels reported plausible nonzero readings (2100 and 2200 RPM). These readings have not been independently calibrated.
+
+**Status:** The maintainer accepted the contribution into the upcoming `yogafan` patch series targeting `hwmon-next` (Linux 7.5) and reported crediting me in `Documentation/hwmon/yogafan.rst`. **An upstream merge has not yet been confirmed.**
+
+[Investigation, patch & test results](https://github.com/sergiomelas/lenovo-linux-drivers/issues/23) · [Maintainer's confirmation](https://github.com/sergiomelas/lenovo-linux-drivers/issues/23#issuecomment-7210229504)
+
 ## Selected projects
 
 Each project below opens a public presentation with screenshots, a walkthrough or sample data. Application source code is not included in these showcase repositories.
